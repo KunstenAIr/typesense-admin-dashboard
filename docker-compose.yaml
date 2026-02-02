@@ -12,7 +12,7 @@ services:
       - typesense
     command:
       - "--data-dir=/data"
-      - "--api-key=xyz"
+      - "--api-key=82n8y7slc32p64tnaij71h23ao52n9mp"
       - "--enable-cors"
 
   dashboard:
